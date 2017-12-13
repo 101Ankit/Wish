@@ -1,0 +1,84 @@
+ #navTab{
+
+    color: white;
+    padding: 10px;
+}
+#festivals{
+	text-align: center;
+	 background-color: #102029;
+	margin: 0 auto;
+	width: 650px;
+	font-family: sans-serif;
+	color: white;
+}
+ footer{
+   	 text-align: center;
+ 	  padding: 20px;
+ 	border-top: 2px solid green;
+
+   }
+    <div id="festivals">
+ 	
+ 		<div style="padding-top:20px">HOLI</div><br><hr \>
+ 		<div style="padding-top:20px">DIWALI</div><br><hr \>
+ 		<div style="padding-top:20px">Navaratr</div><br><hr \>
+ 		<div style="padding-top:20px">Dussehra</div><br><hr \>
+ 		<div style="padding-top:20px" >Ganesh Chaturthi</div><br><hr \>
+ 		<div style="padding-top:20px"> Janmashtami</div><br><hr \>
+ 		<div style="padding-top:20px">Raksha Bandhan</div><br><hr \>
+ 		<div style="padding-top:20px">Maha Shivratri</div><br><hr \>
+ 		<div style="padding-top:20px">Eid-Ul-Fitr</div><br><hr \>
+ 		<div style="padding-top:20px">Guru Nanak Jayanti</div><br><hr \>
+ 	</div>
+<footer>
+101 &copy 2017</footer>
+ .navg
+{
+  width: 100%;
+  overflow: auto;
+  color: white;
+}
+.navg ul{
+      margin: 0;
+    	padding: 0px;
+      list-style: none;
+      line-height: 60px;
+    	background: rgba(1,1,1,0.5);
+    }
+.navg li{
+  float: left;
+    	display: inline;
+    	padding: 0px 10px 0px 10px;
+    }
+.navg li a{
+
+        text-decoration: none;
+        width: 130px;
+        display: block;
+        text-align: center;
+        font-size: 18px;
+        font-family: sans-serif;
+        letter-spacing: .5px;
+    }
+    .search-form{
+  margin-top: 15px;
+  float: right;
+  margin-right: 100px;
+}
+input [type=text]
+{
+  padding: 7px;
+  border: none;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+button{
+  float: right;
+  border-radius: 0 5px 5px 0;
+  cursor:pointer;
+  position: relative;
+  padding: 7px;
+  font-family: sans-serif;
+  border: none;
+  font-size: 16px;
+}
